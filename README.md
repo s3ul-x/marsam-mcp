@@ -10,6 +10,8 @@
 
 A professional in-browser painting app with an English (LTR) interface and a dark studio look. Built on the Next.js App Router with React, Tailwind CSS v4 and shadcn/ui-style components.
 
+![The Marsam studio: a three-page project open, a 1440 × 2400 landing page selected, layers and page strip visible](docs/studio.png)
+
 ## Running
 
 ```bash
